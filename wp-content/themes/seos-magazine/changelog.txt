@@ -1,0 +1,7 @@
+Seos Magazine Premium changelog
+
+= Version 1.0.8 Juni 02 2016 =
+* CHANGE: Header Image Size
+
+= Version 1.0.0 =
+* Initial release
